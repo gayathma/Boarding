@@ -1,0 +1,39 @@
+[
+    {
+        "from": "Kiev",
+        "to": "Lviv",
+        "type": "train",
+        "number": "X12",
+        "seat": "18C"
+    },
+    {
+        "from": "Lviv Danylo Halytskyi International Airport",
+        "to": "Stockholm",
+        "type": "flight",
+        "number": "BF134",
+        "gate": "45B",
+        "seat": "3A",
+        "counter": "344"
+    },
+    {
+        "from": "Amsterdam Schiphol",
+        "to": "Rotterdam",
+        "type": "train",
+        "number": "T13",
+        "seat": "12B"
+    },
+    {
+        "from": "Stockholm",
+        "to": "Amsterdam Schiphol",
+        "type": "flight",
+        "number": "SK22",
+        "gate": "18",
+        "seat": "7B"
+    },
+    {
+        "from": "Lviv",
+        "to": "Lviv Danylo Halytskyi International Airport",
+        "type": "bus"
+    }
+
+]
