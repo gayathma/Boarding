@@ -1,6 +1,6 @@
 <p align="center">API Boarding</p>
 
-## About API Webshop
+## About API Boarding
 
 This is the implementation of a boarding card sorter. 
 
